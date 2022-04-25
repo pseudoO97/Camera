@@ -1,6 +1,8 @@
-# React Native Camera
+# Aboulbarge Omar
 
-## Installation
+## React Native Camera
+
+### Installation
 
 1. `npm install --global expo-cli` Installer les dépendances
 
