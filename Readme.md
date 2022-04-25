@@ -12,4 +12,4 @@ tout est fais sauf le serveur Nodejs
 
 1. amusez vous bien en prennent des photos.
 2. cliquer sur la photo lontoment.
-3. choisire votre action souhaitez.
+3. choisissez votre action souhaitez.
