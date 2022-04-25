@@ -98,6 +98,13 @@ if(pictures.length === 0){
       [
         // The "Yes" button
         {
+          text: "partager ",
+          onPress: ()=>{
+            openShareDialogAsync()
+
+          }
+        },
+        {
           text: "Remove",
           onPress: () => {
 
@@ -110,13 +117,12 @@ if(pictures.length === 0){
         },
         // The "No" button
         // Does nothing but dismiss the dialog when tapped
-        {
-          text: "partager ",
-          onPress: ()=>{
-            openShareDialogAsync()
-
+      {
+          text:"annuler",
+          onPress :() =>{
+            setmodalVisiblePicture(!modalVisiblePicture);
           }
-        },
+        }
       ]
     );
   };
