@@ -1,5 +1,7 @@
 # Aboulbarge Omar
 
+tout est fais sauf le serveur Nodejs
+
 ## React Native Camera
 
 ### Installation
